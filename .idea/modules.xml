@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02_2421.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02_2421.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02_2421-build.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02_2421-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02/kafka-mooc-2025-02_6185.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02/kafka-mooc-2025-02_6185.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02/kafka-mooc-2025-02_6185.kafka-mooc-2025-02_6185-build.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-mooc-2025-02/kafka-mooc-2025-02_6185.kafka-mooc-2025-02_6185-build.iml" />
     </modules>
   </component>
 </project>
